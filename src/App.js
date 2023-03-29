@@ -1,12 +1,12 @@
 import NavbarComponent from "./Components/NavbarComponent"
-import welcomeComponent from "./Components/Welcomecomponent"
+import WelcomeComponent from "./Components/WelcomeComponent"
 
 
 const App = () => {
   return (
     <>
     <NavbarComponent/>
-    <welcomeComponent/>
+    <WelcomeComponent/>
     
     </>
     
